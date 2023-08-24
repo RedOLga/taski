@@ -150,4 +150,3 @@ jobs:
           context: ./gateway/
           push: true
           tags: olgaredko/taski_gateway:latest
-          
